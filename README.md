@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Bhumika2012
+- 👋 Hi, I’m @Bhumika
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning FYCS.
+- 🌱 I’m a student of MSc Data Science
 - 💞️ I’m looking to collaborate on on github
 - 📫 How to reach me from mail
 
